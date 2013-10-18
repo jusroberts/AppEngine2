@@ -7,11 +7,11 @@ require "app_engine2/version"
 Gem::Specification.new do |s|
   s.name        = "app_engine2"
   s.version     = AppEngine2::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of AppEngine2."
-  s.description = "TODO: Description of AppEngine2."
+  s.authors     = ["justin"]
+  s.email       = ["nichetestjustin@gmail.com"]
+  s.homepage    = "www.banana.com"
+  s.summary     = "Banana"
+  s.description = "Banana"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
