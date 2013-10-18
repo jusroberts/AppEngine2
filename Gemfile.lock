@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     app_engine2 (0.0.1)
-      cb-api (~> 0.3.02)
+      cb-api (~> 0.3.0)
       rails (~> 4.0.0)
 
 GEM
