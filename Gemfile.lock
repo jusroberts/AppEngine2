@@ -34,7 +34,8 @@ GEM
     arel (4.0.0)
     atomic (1.1.14)
     builder (3.1.4)
-    cb-api (0.4.0)
+    cb-api (0.4.5)
+      activesupport
       httparty (~> 0.11.0)
       json (~> 1.7.6)
       nokogiri (~> 1.6.0)
