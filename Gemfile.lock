@@ -2,6 +2,7 @@ PATH
   remote: .
   specs:
     app_engine2 (0.0.1)
+      cb-api (~> 0.4.5)
       rails (~> 4.0.0)
 
 GEM
@@ -100,5 +101,4 @@ PLATFORMS
 
 DEPENDENCIES
   app_engine2!
-  cb-api (~> 0.4.0)
   sqlite3
